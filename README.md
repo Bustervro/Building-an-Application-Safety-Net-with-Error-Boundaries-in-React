@@ -1,4 +1,5 @@
 # Building-an-Application-Safety-Net-with-Error-Boundaries-in-React
+
 # React Error Boundary Lab
 
 This project demonstrates how to use an Error Boundary in React.
