@@ -1,0 +1,25 @@
+.app {
+  font-family: Arial, sans-serif;
+  padding: 30px;
+}
+
+.card {
+  border: 2px solid #ddd;
+  padding: 20px;
+  margin: 15px 0;
+  border-radius: 10px;
+}
+
+.fallback {
+  border: 2px solid red;
+  background-color: #ffe5e5;
+  padding: 20px;
+  margin: 15px 0;
+  border-radius: 10px;
+}
+
+.buttons button {
+  margin: 5px;
+  padding: 10px;
+  cursor: pointer;
+}
